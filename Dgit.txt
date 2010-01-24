@@ -2,5 +2,5 @@ Dgit setup 1
 New Line 1
 New Line 2
 New Line 3
-NeW Line 2b
+New Line 2b
 
